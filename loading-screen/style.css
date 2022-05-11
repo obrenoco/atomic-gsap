@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+}
+
+p {
+  font-size: 4rem;
+  font-weight: bold;
+}
+
+.loading {
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: yellowgreen;
+  height: 100vh;
+  width: 100%;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
